@@ -1,3 +1,4 @@
+Hi, these are my notes about a new feature for Chromium that I'm trying to put together.
 
 # Pinch->(Zoom|Scale)
 [Desktop] New flag to divert touchpad-pinch from viewport-zoom to text-scale
